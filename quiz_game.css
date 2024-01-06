@@ -1,0 +1,20 @@
+#title
+{
+    font-family: 'Arvo', serif;;
+}
+#player_1_login
+{
+    background-color: cornflowerblue;
+    padding: 5px;
+    font-family: 'BioRhyme Expanded', serif;
+}
+#player_2_login
+{
+    background-color: darkred;
+    padding: 5px;
+    font-family: 'BioRhyme Expanded', serif;
+}
+html
+{
+background-color: lightgoldenrodyellow;
+}
